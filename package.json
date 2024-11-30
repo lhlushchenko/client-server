@@ -1,0 +1,12 @@
+{
+  "name": "client-server",
+  "version": "1.0.0",
+  "description": "For education",
+  "main": "index.js",
+  "scripts": {
+    "server:start": "node server.js"
+  },
+  "author": "Leo",
+  "license": "ISC",
+  "dependencies": {}
+}
